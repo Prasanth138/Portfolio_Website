@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Portfolio_Website/static/css/main.62bcdfbe.css",
+    "main.js": "/Portfolio_Website/static/js/main.077b2bd6.js",
+    "static/js/787.71e672d5.chunk.js": "/Portfolio_Website/static/js/787.71e672d5.chunk.js",
+    "static/media/DegreePic.jpg": "/Portfolio_Website/static/media/DegreePic.50430676af4018f311a6.jpg",
+    "static/media/ONYX.png": "/Portfolio_Website/static/media/ONYX.3b7aaf63718d2062e5ec.png",
+    "static/media/Poppins-Thin.ttf": "/Portfolio_Website/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/Portfolio_Website/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/Portfolio_Website/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/Portfolio_Website/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/Portfolio_Website/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/Portfolio_Website/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/Portfolio_Website/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/mail.jpeg": "/Portfolio_Website/static/media/mail.d13d5e32cbc73884b526.jpeg",
+    "static/media/profilepicture.jpeg": "/Portfolio_Website/static/media/profilepicture.39b2f37817bd50767430.jpeg",
+    "static/media/bg.jpg": "/Portfolio_Website/static/media/bg.d580cd375921d13ae60d.jpg",
+    "static/media/slick.svg": "/Portfolio_Website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Portfolio_Website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Portfolio_Website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Portfolio_Website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Portfolio_Website/index.html",
+    "static/media/programming-skills.svg": "/Portfolio_Website/static/media/programming-skills.d19983a9bee884277ffa4156796bcc0c.svg",
+    "static/media/projects.svg": "/Portfolio_Website/static/media/projects.2b352a52b0588dab62f56a7d1c1e436d.svg",
+    "static/media/interests.svg": "/Portfolio_Website/static/media/interests.809890a3e4fb0938f61bb8a6c34a6940.svg",
+    "static/media/education.svg": "/Portfolio_Website/static/media/education.10cfa28a40119ebd70cf4fb33fd5934e.svg",
+    "static/media/work-history.svg": "/Portfolio_Website/static/media/work-history.a566475dedb99dea4bb8b9115798b2a3.svg",
+    "main.62bcdfbe.css.map": "/Portfolio_Website/static/css/main.62bcdfbe.css.map",
+    "main.077b2bd6.js.map": "/Portfolio_Website/static/js/main.077b2bd6.js.map",
+    "787.71e672d5.chunk.js.map": "/Portfolio_Website/static/js/787.71e672d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62bcdfbe.css",
+    "static/js/main.077b2bd6.js"
+  ]
+}
